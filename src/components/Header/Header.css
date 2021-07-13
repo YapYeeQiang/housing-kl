@@ -1,0 +1,8 @@
+.header__link {
+	color: white;
+	padding-left: 1rem;
+}
+
+.header__link:hover {
+	color: rgb(179, 179, 179);
+}

@@ -1,0 +1,40 @@
+section {
+	padding: 20px;
+}
+
+.profile {
+	margin: 30px;
+}
+
+.profile__price {
+	background-color: #009966;
+	color: white;
+}
+
+.status__partly {
+	background-color: #ffaa4d;
+	color: white;
+}
+
+.status__fully {
+	background-color: #00873e;
+	color: white;
+}
+
+.carousel__wrap {
+	background-color: black;
+	position: relative;
+}
+
+.carousel__image {
+	opacity: 0.4;
+}
+
+h3 {
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}

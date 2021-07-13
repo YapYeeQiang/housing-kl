@@ -1,0 +1,17 @@
+.houseCard__col {
+	margin-bottom: 50px;
+}
+
+.houseCard__card {
+	width: 100%;
+	height: 100%;
+	margin-bottom: 20px;
+}
+
+.houseCard__link {
+	color: white;
+}
+
+.houseCard__link > Button {
+	width: 100%;
+}
